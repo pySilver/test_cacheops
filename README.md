@@ -2,8 +2,8 @@
 For the sake of https://github.com/Suor/django-cacheops/issues/125
 
 *Update settings.py for a demo:*
-# Database connection
-# Redis connection (cacheops)
+- Database connection
+- Redis connection (cacheops)
 
 Output of the subsequent `./manage.py syncdb` calls:
 ```
